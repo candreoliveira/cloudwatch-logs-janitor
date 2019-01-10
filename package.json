@@ -27,8 +27,10 @@
     "type": "git",
     "url": "https://github.com/exratione/cloudwatch-logs-janitor"
   },
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://github.com/exratione/cloudwatch-logs-janitor/raw/master/LICENSE"
-  }]
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/exratione/cloudwatch-logs-janitor/raw/master/LICENSE"
+    }
+  ]
 }
